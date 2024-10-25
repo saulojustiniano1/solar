@@ -7,14 +7,17 @@ SECRET_KEY = 'django-insecure-5ik2*x2qmbikv&dur@o5w7(-)fom=*%^e1vopt*=xe$^p&t32v
 
 DEBUG = True
 
+CORS_ORIGIN_ALLOW_ALL = True
 ALLOWED_HOSTS = ['*']
 
 APPS = [
-    'plataforma'
+    'plataforma',
+    'softdelete',
 ]
 
 REST = [
     'rest_framework',
+    'rest_framework_simplejwt'
 ]
 
 INSTALLED_APPS = [
@@ -35,6 +38,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'plataforma.middleware.CustomMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = 'backend.urls'
@@ -91,10 +96,10 @@ USE_I18N = True
 
 USE_TZ = True
 
+STATIC_URL = 'static/'
+
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
-
-STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
@@ -103,5 +108,48 @@ REST_FRAMEWORK = {
     "DEFAULT_SCHEMA_CLASS": "rest_framework.schemas.coreapi.AutoSchema",
     "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.PageNumberPagination",
     "NON_FIELD_ERRORS_KEY": "error",
-    "PAGE_SIZE": 5
+    "PAGE_SIZE": 10
+}
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    ],
+    "DEFAULT_FILTER_BACKENDS": ("django_filters.rest_framework.DjangoFilterBackend",),
+    "DEFAULT_SCHEMA_CLASS": "rest_framework.schemas.coreapi.AutoSchema",
+    "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.PageNumberPagination",
+    "NON_FIELD_ERRORS_KEY": "error",
+    "PAGE_SIZE": 2
+}
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+            'format': '%(asctime)s - %(levelname)s - %(message)s'
+        },
+        'simple': {
+            'format': '%(levelname)s - %(message)s'
+        },
+    },
+    'handlers': {
+        'file': {
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename': 'weblinker.log',
+            'formatter': 'verbose',
+        },
+        'console': {
+            'level': 'DEBUG',
+            'class': 'logging.StreamHandler',
+            'formatter': 'simple',
+        },
+    },
+    'loggers': {
+        '': {
+            'handlers': ['file', 'console'],
+            'level': 'DEBUG',
+        },
+    },
 }

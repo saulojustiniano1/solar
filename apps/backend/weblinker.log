@@ -1,0 +1,336 @@
+2024-10-25 15:33:19,186 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:33:23,925 - WARNING - Not Found: /
+2024-10-25 15:33:24,306 - WARNING - Not Found: /favicon.ico
+2024-10-25 15:33:32,429 - WARNING - Not Found: /api
+2024-10-25 15:34:34,761 - WARNING - Not Found: /api/post/
+2024-10-25 15:35:28,185 - WARNING - Not Found: /api/post/
+2024-10-25 15:35:31,281 - WARNING - Not Found: /api/post/
+2024-10-25 15:36:42,059 - DEBUG - STREAM b'IHDR' 16 13
+2024-10-25 15:36:42,060 - DEBUG - STREAM b'pHYs' 41 9
+2024-10-25 15:36:42,060 - DEBUG - STREAM b'sRGB' 62 1
+2024-10-25 15:36:42,060 - DEBUG - STREAM b'gAMA' 75 4
+2024-10-25 15:36:42,060 - DEBUG - STREAM b'IDAT' 91 528316
+2024-10-25 15:36:42,061 - DEBUG - Importing BlpImagePlugin
+2024-10-25 15:36:42,062 - DEBUG - Importing BmpImagePlugin
+2024-10-25 15:36:42,062 - DEBUG - Importing BufrStubImagePlugin
+2024-10-25 15:36:42,062 - DEBUG - Importing CurImagePlugin
+2024-10-25 15:36:42,062 - DEBUG - Importing DcxImagePlugin
+2024-10-25 15:36:42,063 - DEBUG - Importing DdsImagePlugin
+2024-10-25 15:36:42,065 - DEBUG - Importing EpsImagePlugin
+2024-10-25 15:36:42,066 - DEBUG - Importing FitsImagePlugin
+2024-10-25 15:36:42,066 - DEBUG - Importing FliImagePlugin
+2024-10-25 15:36:42,066 - DEBUG - Importing FpxImagePlugin
+2024-10-25 15:36:42,067 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-10-25 15:36:42,067 - DEBUG - Importing FtexImagePlugin
+2024-10-25 15:36:42,067 - DEBUG - Importing GbrImagePlugin
+2024-10-25 15:36:42,067 - DEBUG - Importing GifImagePlugin
+2024-10-25 15:36:42,067 - DEBUG - Importing GribStubImagePlugin
+2024-10-25 15:36:42,067 - DEBUG - Importing Hdf5StubImagePlugin
+2024-10-25 15:36:42,068 - DEBUG - Importing IcnsImagePlugin
+2024-10-25 15:36:42,068 - DEBUG - Importing IcoImagePlugin
+2024-10-25 15:36:42,069 - DEBUG - Importing ImImagePlugin
+2024-10-25 15:36:42,070 - DEBUG - Importing ImtImagePlugin
+2024-10-25 15:36:42,070 - DEBUG - Importing IptcImagePlugin
+2024-10-25 15:36:42,070 - DEBUG - Importing JpegImagePlugin
+2024-10-25 15:36:42,070 - DEBUG - Importing Jpeg2KImagePlugin
+2024-10-25 15:36:42,070 - DEBUG - Importing McIdasImagePlugin
+2024-10-25 15:36:42,070 - DEBUG - Importing MicImagePlugin
+2024-10-25 15:36:42,071 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-10-25 15:36:42,071 - DEBUG - Importing MpegImagePlugin
+2024-10-25 15:36:42,071 - DEBUG - Importing MpoImagePlugin
+2024-10-25 15:36:42,079 - DEBUG - Importing MspImagePlugin
+2024-10-25 15:36:42,079 - DEBUG - Importing PalmImagePlugin
+2024-10-25 15:36:42,080 - DEBUG - Importing PcdImagePlugin
+2024-10-25 15:36:42,080 - DEBUG - Importing PcxImagePlugin
+2024-10-25 15:36:42,080 - DEBUG - Importing PdfImagePlugin
+2024-10-25 15:36:42,084 - DEBUG - Importing PixarImagePlugin
+2024-10-25 15:36:42,084 - DEBUG - Importing PngImagePlugin
+2024-10-25 15:36:42,084 - DEBUG - Importing PpmImagePlugin
+2024-10-25 15:36:42,084 - DEBUG - Importing PsdImagePlugin
+2024-10-25 15:36:42,085 - DEBUG - Importing QoiImagePlugin
+2024-10-25 15:36:42,085 - DEBUG - Importing SgiImagePlugin
+2024-10-25 15:36:42,085 - DEBUG - Importing SpiderImagePlugin
+2024-10-25 15:36:42,086 - DEBUG - Importing SunImagePlugin
+2024-10-25 15:36:42,086 - DEBUG - Importing TgaImagePlugin
+2024-10-25 15:36:42,086 - DEBUG - Importing TiffImagePlugin
+2024-10-25 15:36:42,086 - DEBUG - Importing WebPImagePlugin
+2024-10-25 15:36:42,088 - DEBUG - Importing WmfImagePlugin
+2024-10-25 15:36:42,088 - DEBUG - Importing XbmImagePlugin
+2024-10-25 15:36:42,089 - DEBUG - Importing XpmImagePlugin
+2024-10-25 15:36:42,089 - DEBUG - Importing XVThumbImagePlugin
+2024-10-25 15:37:00,899 - WARNING - Not Found: /api/post/
+2024-10-25 15:37:01,106 - WARNING - Not Found: /favicon.ico
+2024-10-25 15:37:06,080 - WARNING - Not Found: /api/post/
+2024-10-25 15:37:09,527 - WARNING - Not Found: /api
+2024-10-25 15:37:12,382 - WARNING - Not Found: /api/
+2024-10-25 15:37:30,255 - WARNING - Not Found: /api/
+2024-10-25 15:37:33,968 - WARNING - Not Found: /api
+2024-10-25 15:38:18,748 - WARNING - Not Found: /api/post/
+2024-10-25 15:38:45,506 - WARNING - Not Found: /api/
+2024-10-25 15:39:03,241 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/plataforma/api/router.py changed, reloading.
+2024-10-25 15:39:03,539 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:39:04,721 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/plataforma/api/router.py changed, reloading.
+2024-10-25 15:39:05,013 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:39:36,662 - INFO - Novo teste al
+2024-10-25 15:39:58,171 - WARNING - Not Found: /api/post/2/
+2024-10-25 15:40:02,655 - WARNING - Not Found: /api/post/2/
+2024-10-25 15:40:09,604 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:40:43,891 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:41:04,879 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:41:24,777 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:41:40,225 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:42:05,049 - INFO - Novo teste al
+2024-10-25 15:42:07,225 - INFO - Novo teste al
+2024-10-25 15:42:57,647 - WARNING - Not Found: /api/post/3/
+2024-10-25 15:43:12,195 - WARNING - Not Found: /api/post/3/
+2024-10-25 15:43:43,743 - INFO - Novo teste al
+2024-10-25 15:43:59,896 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:44:01,212 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:44:01,911 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:45:04,167 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:45:04,450 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:45:08,620 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:45:08,869 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:46:08,429 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:46:08,652 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:47:55,529 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:47:55,794 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:48:13,243 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:48:13,539 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:48:18,787 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:48:19,059 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:48:33,425 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:48:33,689 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:49:11,442 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:49:11,746 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:49:16,963 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 15:49:17,236 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:50:04,975 - INFO - Middleware: Interceptando requisição
+2024-10-25 15:50:05,196 - INFO - Middleware: Interceptando resposta
+2024-10-25 15:50:16,288 - INFO - Middleware: Interceptando requisição
+2024-10-25 15:50:16,293 - INFO - Middleware: Interceptando resposta
+2024-10-25 15:50:16,294 - WARNING - Not Found: /api/post/1/
+2024-10-25 15:52:30,585 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/plataforma/api/router.py changed, reloading.
+2024-10-25 15:52:30,885 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:52:45,296 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/urls.py changed, reloading.
+2024-10-25 15:52:45,570 - INFO - Watching for file changes with StatReloader
+2024-10-25 15:52:59,408 - INFO - Middleware: Interceptando requisição
+2024-10-25 15:52:59,413 - INFO - Middleware: Interceptando resposta
+2024-10-25 15:52:59,413 - WARNING - Unauthorized: /api/post/1/
+2024-10-25 15:53:04,177 - INFO - Middleware: Interceptando requisição
+2024-10-25 15:53:04,387 - INFO - Middleware: Interceptando resposta
+2024-10-25 15:53:15,494 - INFO - Middleware: Interceptando requisição
+2024-10-25 15:53:15,523 - INFO - Middleware: Interceptando resposta
+2024-10-25 16:01:01,859 - INFO - Watching for file changes with StatReloader
+2024-10-25 16:44:15,364 - INFO - Middleware: Interceptando requisição
+2024-10-25 16:44:15,370 - INFO - Middleware: Interceptando resposta
+2024-10-25 16:44:15,370 - WARNING - Not Found: /api/posts/
+2024-10-25 16:44:15,373 - INFO - Middleware: Interceptando requisição
+2024-10-25 16:44:15,377 - INFO - Middleware: Interceptando resposta
+2024-10-25 16:44:15,377 - WARNING - Not Found: /api/posts/
+2024-10-25 16:44:15,662 - INFO - Middleware: Interceptando requisição
+2024-10-25 16:44:15,669 - INFO - Middleware: Interceptando resposta
+2024-10-25 16:44:15,671 - WARNING - Not Found: /api/posts/
+2024-10-25 16:44:15,674 - INFO - Middleware: Interceptando requisição
+2024-10-25 16:44:15,681 - INFO - Middleware: Interceptando resposta
+2024-10-25 16:44:15,682 - WARNING - Not Found: /api/posts/
+2024-10-25 17:22:43,311 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:22:43,312 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:22:43,318 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:22:43,615 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:22:43,800 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:22:43,801 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:22:43,801 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:22:43,802 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:22:43,808 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:22:43,812 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:22:43,812 - WARNING - Not Found: /api/posts/
+2024-10-25 17:22:43,854 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:22:43,859 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:22:43,859 - WARNING - Not Found: /api/posts/
+2024-10-25 17:23:32,513 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:23:32,516 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:23:32,516 - WARNING - Bad Request: /api/token/
+2024-10-25 17:23:35,645 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:23:35,880 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:23:35,880 - WARNING - Unauthorized: /api/token/
+2024-10-25 17:23:41,679 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:23:41,906 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:23:41,967 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:23:41,971 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:23:41,972 - WARNING - Not Found: /api/posts/
+2024-10-25 17:23:41,973 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:23:41,977 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:23:41,977 - WARNING - Not Found: /api/posts/
+2024-10-25 17:24:47,121 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:24:47,124 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:24:47,125 - WARNING - Not Found: /api/posts/
+2024-10-25 17:25:01,463 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:01,483 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:25:01,483 - WARNING - Unauthorized: /api/post/
+2024-10-25 17:25:26,077 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:26,078 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:25:26,082 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:26,094 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:25:31,716 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:31,949 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:25:32,018 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:32,032 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:25:32,033 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:32,049 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:25:59,252 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:59,268 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:25:59,269 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:25:59,283 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:26:18,285 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:26:18,305 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:26:18,307 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:26:18,323 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:27:33,147 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:27:33,378 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:29:31,826 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/plataforma/models.py changed, reloading.
+2024-10-25 17:29:32,251 - INFO - Watching for file changes with StatReloader
+2024-10-25 17:29:41,551 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/plataforma/models.py changed, reloading.
+2024-10-25 17:29:41,873 - INFO - Watching for file changes with StatReloader
+2024-10-25 17:30:06,874 - INFO - Watching for file changes with StatReloader
+2024-10-25 17:32:04,922 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:32:05,156 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:32:05,220 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:32:05,239 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:32:05,242 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:32:05,257 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:33:59,089 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:33:59,120 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:33:59,122 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:33:59,140 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:34:14,275 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:34:14,494 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:34:14,550 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:34:14,563 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:34:14,564 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:34:14,577 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:34:22,318 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:34:22,335 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:34:22,336 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:34:22,353 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:34:54,942 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:34:54,957 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:35:36,303 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:35:36,316 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:36:20,396 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:36:20,411 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:37:09,017 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:37:09,032 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:37:09,033 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:37:09,049 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:37:27,916 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:37:27,929 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:37:27,929 - WARNING - Unauthorized: /api/post/
+2024-10-25 17:37:36,882 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:37:36,883 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:37:36,883 - WARNING - Unauthorized: /api/post/
+2024-10-25 17:37:44,006 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:37:44,226 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:37:56,769 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:37:56,773 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:37:56,778 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:37:56,801 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:30,087 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:30,089 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:30,089 - WARNING - Unauthorized: /api/post/
+2024-10-25 17:39:37,183 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:37,400 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:37,468 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:37,482 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:37,484 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:37,499 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:51,807 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:51,808 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:51,808 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:51,808 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:51,815 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:51,829 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:51,871 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:51,885 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:51,919 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:51,922 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:54,785 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:54,802 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:54,804 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:54,817 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:55,723 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:55,724 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:55,729 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:55,729 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:55,731 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:55,748 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:55,790 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:55,806 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:57,853 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:57,865 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:39:57,866 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:39:57,880 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:02,262 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:02,286 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:02,288 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:02,307 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:08,680 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:08,702 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:08,710 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:08,728 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:09,773 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:09,785 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:09,787 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:09,801 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:23,056 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:23,077 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:23,078 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:23,094 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:52,691 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:52,706 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:52,710 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:52,737 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:41:55,106 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:41:55,140 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:42:01,727 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:42:01,762 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:42:03,929 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:42:03,955 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:42:03,958 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:42:03,979 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:45:09,671 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 17:45:09,925 - INFO - Watching for file changes with StatReloader
+2024-10-25 17:45:14,108 - INFO - /home/saulojustiniano/www/ads/github/solar/apps/backend/backend/settings.py changed, reloading.
+2024-10-25 17:45:14,377 - INFO - Watching for file changes with StatReloader
+2024-10-25 17:45:18,094 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:45:18,104 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:45:18,104 - WARNING - Unauthorized: /api/post/
+2024-10-25 17:45:18,125 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:45:18,126 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:45:18,126 - WARNING - Unauthorized: /api/post/
+2024-10-25 17:45:25,616 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:45:25,826 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:45:25,898 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:45:25,919 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:45:25,923 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:45:25,943 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:03,681 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:03,906 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:03,969 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:03,983 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:03,984 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:03,997 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:06,943 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:06,943 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:06,949 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:06,987 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:07,905 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:07,905 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:07,912 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:07,951 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:10,042 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:10,069 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:46:10,072 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:46:10,093 - INFO - Middleware: Interceptando resposta
+2024-10-25 17:47:09,337 - INFO - Middleware: Interceptando requisição
+2024-10-25 17:47:09,363 - INFO - Middleware: Interceptando resposta
