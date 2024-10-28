@@ -1,40 +1,21 @@
-import logging
-
-from rest_framework import permissions, viewsets
-from rest_framework.permissions import IsAuthenticated
+from rest_framework import permissions, viewsets, filters
 from plataforma import models
 from plataforma.api import serializers
 
-from .permissions import IsInSpecificGroup
-
-logger = logging.getLogger('custom')
-
 
 class PostViewSet(viewsets.ModelViewSet):
-    queryset = models.Post.objects.all()
+    queryset = models.Post.objects.all().order_by('id')
     serializer_class = serializers.PostSerializer
-    permission_classes = [IsAuthenticated]
-
-    def perform_create(self, serializer):
-        logger.info(f'Novo {self.request.data["title"]}')
-        serializer.save()
+    permission_classes = [permissions.IsAuthenticated]
 
 
 class CategoryViewSet(viewsets.ModelViewSet):
-    queryset = models.Category.objects.all()
+    queryset = models.Category.objects.all().order_by('id')
     serializer_class = serializers.CategorySerializer
-    permission_classes = [IsAuthenticated]
-
-    def perform_create(self, serializer):
-        logger.info(f'Novo {self.request.data["title"]}')
-        serializer.save()
+    permission_classes = [permissions.IsAuthenticated]
 
 
 class CommentViewSet(viewsets.ModelViewSet):
-    queryset = models.Comment.objects.all()
+    queryset = models.Comment.objects.all().order_by('id')
     serializer_class = serializers.CommentSerializer
-    permission_classes = [IsAuthenticated]
-
-    def perform_create(self, serializer):
-        logger.info(f'Novo {self.request.data["title"]}')
-        serializer.save()
+    permission_classes = [permissions.IsAuthenticated]
