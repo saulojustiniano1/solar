@@ -4416,3 +4416,6 @@ TypeError: 'type' object is not iterable
 2024-10-29 22:05:02,242 - INFO - Middleware: Interceptando resposta
 2024-10-29 22:05:02,246 - INFO - Middleware: Interceptando requisição
 2024-10-29 22:05:02,282 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:10:27,356 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:10:27,357 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:10:27,357 - WARNING - Unauthorized: /api/posts/
