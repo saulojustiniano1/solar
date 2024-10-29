@@ -4289,3 +4289,130 @@ TypeError: 'type' object is not iterable
 2024-10-28 16:03:26,039 - INFO - Middleware: Interceptando resposta
 2024-10-28 16:03:26,041 - INFO - Middleware: Interceptando requisição
 2024-10-28 16:03:26,066 - INFO - Middleware: Interceptando resposta
+2024-10-28 16:04:56,097 - INFO - Middleware: Interceptando requisição
+2024-10-28 16:04:56,114 - INFO - Middleware: Interceptando resposta
+2024-10-28 16:04:56,115 - INFO - Middleware: Interceptando requisição
+2024-10-28 16:04:56,133 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:42:52,650 - INFO - Watching for file changes with StatReloader
+2024-10-29 21:43:12,267 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:43:12,653 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:43:12,791 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:43:12,821 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:43:12,864 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:43:12,894 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:45:14,273 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:45:14,314 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:45:14,357 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:45:14,382 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:45:16,567 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:45:16,608 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:45:16,610 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:45:16,645 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:45:55,011 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:45:55,367 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:45:55,467 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:45:55,511 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:45:55,514 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:45:55,552 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:49:16,369 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:49:16,414 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:49:16,418 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:49:16,469 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:49:18,736 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:49:18,764 - INFO - Middleware: Interceptando resposta
+2024-10-29 21:49:18,766 - INFO - Middleware: Interceptando requisição
+2024-10-29 21:49:18,804 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:38,595 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:38,973 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:39,071 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:39,119 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:39,126 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:39,168 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:43,742 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:43,781 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:53,540 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:53,572 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:53,689 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:53,732 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:53,735 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:53,780 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:57,044 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:57,079 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:03:57,123 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:03:57,155 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:04:10,160 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:04:10,208 - DEBUG - STREAM b'IHDR' 16 13
+2024-10-29 22:04:10,208 - DEBUG - STREAM b'sBIT' 41 4
+2024-10-29 22:04:10,208 - DEBUG - b'sBIT' 41 4 (unknown)
+2024-10-29 22:04:10,208 - DEBUG - STREAM b'tEXt' 57 25
+2024-10-29 22:04:10,209 - DEBUG - STREAM b'tEXt' 94 38
+2024-10-29 22:04:10,209 - DEBUG - STREAM b'IDAT' 144 8192
+2024-10-29 22:04:10,209 - DEBUG - Importing BlpImagePlugin
+2024-10-29 22:04:10,210 - DEBUG - Importing BmpImagePlugin
+2024-10-29 22:04:10,211 - DEBUG - Importing BufrStubImagePlugin
+2024-10-29 22:04:10,211 - DEBUG - Importing CurImagePlugin
+2024-10-29 22:04:10,211 - DEBUG - Importing DcxImagePlugin
+2024-10-29 22:04:10,213 - DEBUG - Importing DdsImagePlugin
+2024-10-29 22:04:10,221 - DEBUG - Importing EpsImagePlugin
+2024-10-29 22:04:10,223 - DEBUG - Importing FitsImagePlugin
+2024-10-29 22:04:10,225 - DEBUG - Importing FliImagePlugin
+2024-10-29 22:04:10,226 - DEBUG - Importing FpxImagePlugin
+2024-10-29 22:04:10,227 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-10-29 22:04:10,227 - DEBUG - Importing FtexImagePlugin
+2024-10-29 22:04:10,228 - DEBUG - Importing GbrImagePlugin
+2024-10-29 22:04:10,229 - DEBUG - Importing GifImagePlugin
+2024-10-29 22:04:10,229 - DEBUG - Importing GribStubImagePlugin
+2024-10-29 22:04:10,230 - DEBUG - Importing Hdf5StubImagePlugin
+2024-10-29 22:04:10,231 - DEBUG - Importing IcnsImagePlugin
+2024-10-29 22:04:10,236 - DEBUG - Importing IcoImagePlugin
+2024-10-29 22:04:10,240 - DEBUG - Importing ImImagePlugin
+2024-10-29 22:04:10,243 - DEBUG - Importing ImtImagePlugin
+2024-10-29 22:04:10,245 - DEBUG - Importing IptcImagePlugin
+2024-10-29 22:04:10,247 - DEBUG - Importing JpegImagePlugin
+2024-10-29 22:04:10,248 - DEBUG - Importing Jpeg2KImagePlugin
+2024-10-29 22:04:10,248 - DEBUG - Importing McIdasImagePlugin
+2024-10-29 22:04:10,250 - DEBUG - Importing MicImagePlugin
+2024-10-29 22:04:10,251 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-10-29 22:04:10,252 - DEBUG - Importing MpegImagePlugin
+2024-10-29 22:04:10,253 - DEBUG - Importing MpoImagePlugin
+2024-10-29 22:04:10,263 - DEBUG - Importing MspImagePlugin
+2024-10-29 22:04:10,266 - DEBUG - Importing PalmImagePlugin
+2024-10-29 22:04:10,269 - DEBUG - Importing PcdImagePlugin
+2024-10-29 22:04:10,270 - DEBUG - Importing PcxImagePlugin
+2024-10-29 22:04:10,270 - DEBUG - Importing PdfImagePlugin
+2024-10-29 22:04:10,288 - DEBUG - Importing PixarImagePlugin
+2024-10-29 22:04:10,289 - DEBUG - Importing PngImagePlugin
+2024-10-29 22:04:10,289 - DEBUG - Importing PpmImagePlugin
+2024-10-29 22:04:10,289 - DEBUG - Importing PsdImagePlugin
+2024-10-29 22:04:10,291 - DEBUG - Importing QoiImagePlugin
+2024-10-29 22:04:10,292 - DEBUG - Importing SgiImagePlugin
+2024-10-29 22:04:10,293 - DEBUG - Importing SpiderImagePlugin
+2024-10-29 22:04:10,294 - DEBUG - Importing SunImagePlugin
+2024-10-29 22:04:10,295 - DEBUG - Importing TgaImagePlugin
+2024-10-29 22:04:10,295 - DEBUG - Importing TiffImagePlugin
+2024-10-29 22:04:10,296 - DEBUG - Importing WebPImagePlugin
+2024-10-29 22:04:10,301 - DEBUG - Importing WmfImagePlugin
+2024-10-29 22:04:10,303 - DEBUG - Importing XbmImagePlugin
+2024-10-29 22:04:10,306 - DEBUG - Importing XpmImagePlugin
+2024-10-29 22:04:10,307 - DEBUG - Importing XVThumbImagePlugin
+2024-10-29 22:04:10,317 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:04:12,739 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:04:12,781 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:04:12,785 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:04:12,833 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:04:50,393 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:04:50,438 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:04:50,441 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:04:50,487 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:05:02,038 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:05:02,068 - DEBUG - STREAM b'IHDR' 16 13
+2024-10-29 22:05:02,068 - DEBUG - STREAM b'sBIT' 41 4
+2024-10-29 22:05:02,068 - DEBUG - b'sBIT' 41 4 (unknown)
+2024-10-29 22:05:02,068 - DEBUG - STREAM b'tEXt' 57 25
+2024-10-29 22:05:02,068 - DEBUG - STREAM b'tEXt' 94 38
+2024-10-29 22:05:02,068 - DEBUG - STREAM b'IDAT' 144 8192
+2024-10-29 22:05:02,073 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:05:02,205 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:05:02,242 - INFO - Middleware: Interceptando resposta
+2024-10-29 22:05:02,246 - INFO - Middleware: Interceptando requisição
+2024-10-29 22:05:02,282 - INFO - Middleware: Interceptando resposta
